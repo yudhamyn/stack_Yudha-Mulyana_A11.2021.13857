@@ -122,8 +122,7 @@ int main()
                 datake--;
             }
 
-        if(pilih==3){ /*Menampilkan Data mulai
-                        data ke-1 hingga DATAKE*/
+        if(pilih==3){ /*Menampilkan Data paling atas*/
             peep(datake-1);
             datake;
         }
